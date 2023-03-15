@@ -1,2 +1,2 @@
 # pemrograman_berorientasi_objek2
-berisi praktikum 
+berisi hasil praktikum pbo 2
